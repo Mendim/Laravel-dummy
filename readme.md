@@ -1,7 +1,9 @@
-
 Hello guys! So people are freakign out because they don't know how to use Composer and they've been getting error and such and so.
+
 >That's why I made this. This has everything you need to get Laravel 4 started without doing those initial things like installing and such.
+
 >> If you're really itching to start bashing away at your keyboard and explore laravel then this is for you.
+
 >People have been wondering about the size of Laravel 4 right now, 17Mb like what dafuq!? well don't stress coz it won't be loaded every request you get. You'll have to wait a little more while uploading but it's all worth it.
 
 Last thing:
@@ -10,6 +12,7 @@ Last thing:
 >>So instead of having "yourwebsite.com/public/index.php" you can just have "yourwebsite.com".
 
 >>Aint that neat!
+So I commented out the vendor folders and such in the gitignore file so I can upload them but you can uncomment them later :)
 
 
 
