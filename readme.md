@@ -1,3 +1,18 @@
+
+Hello guys! So people are freakign out because they don't know how to use Composer and they've been getting error and such and so.
+>That's why I made this. This has everything you need to get Laravel 4 started without doing those initial things like installing and such.
+>> If you're really itching to start bashing away at your keyboard and explore laravel then this is for you.
+>People have been wondering about the size of Laravel 4 right now, 17Mb like what dafuq!? well don't stress coz it won't be loaded every request you get. You'll have to wait a little more while uploading but it's all worth it.
+
+Last thing:
+> I placed here the htaccess files I use for free web hosts that cant be configured. The "root" file redirects the user to the public folder then the "public" file redirects the user to the "index.php".
+
+>>So instead of having "yourwebsite.com/public/index.php" you can just have "yourwebsite.com".
+
+>>Aint that neat!
+
+
+
 ## Laravel PHP Framework
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
